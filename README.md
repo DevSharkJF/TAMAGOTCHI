@@ -15,4 +15,5 @@
 ![death](https://github.com/DevSharkMT/TAMAGOTCHI/assets/155767351/23a0ee10-68b6-43b3-ac91-b9122362d06b)
 
 # INFORMAÇÕES ADICIONAIS
-O código foi criado para fins de aprendizado e de entreterimento, onde o código foi desenvolvido em momentos de lazer.
+Criado para fins de **aprendizado**, este código é o primeiro que fiz após ter começado a estudar `POO` em Python, por isso possui uma estrutura simples e de fácil entendimento. <br>
+A ideia surgiu após ver um post no Instagram, onde o código seria um desafio para iniciantes.
